@@ -1,0 +1,33 @@
+<GameConfig
+	gameTitle="SimpleMiner"
+	windowAspect="2.0"
+	isFullscreen="false"
+	devConsoleLines="45.5"
+	
+	debugRingPartitions="128"
+	debugSlowMoMultiplier="0.5"
+	debugFastMoMultiplier="2.0"
+	
+	UICameraDimensionX="1600.0"
+	UICameraDimensionY="800.0"
+	UICameraCenterX="0.0"
+	UICameraCenterY="0.0"
+	
+	worldCameraMinX="-1.0"
+	worldCameraMinY="-1.0"
+	worldCameraMaxX="1.0"
+	worldCameraMaxY="1.0"
+	worldCameraCenterX="0.0"
+	worldCameraCenterY="0.0"
+	
+	joystickMenuDelay="0.2"
+	joystickMenuSensitivity="0.5"
+	
+	worldSeed="0"
+	chunkActivationRange="500.0"
+	disableProfiling="true"
+	disableHiddenSurfaceRemoved="false"
+	disableTexture="false"
+	disableShader="false"
+	disableDistanceFog="false"
+/>

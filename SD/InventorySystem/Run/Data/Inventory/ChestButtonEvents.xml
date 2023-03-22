@@ -1,0 +1,30 @@
+<Element>
+	<InventoryScrollable name="inventoryDisplay" fontPath="Data/Fonts/InputMonoBold_44x_64p_aa"/>
+	<ChestScrollable name="chestDisplay" fontPath="Data/Fonts/InputMonoBold_44x_64p_aa"/>
+	<ItemCategories value=",weapon,armor,consumable,book,misc"/>
+	<ItemCategoriesText value="ALL,WEAPON,ARMOR,CONSUMABLE,BOOK,MISC"/>
+	
+	<!-- inventory -->
+	<EventHandler name="decreaseInventoryCategory" function="ShiftCategory" button="inventoryLeftButton">
+		<Arg key="scrollable" value="inventoryDisplay"/>
+		<Arg key="changeDirection" value="-1"/>
+		<Arg key="title" value="inventoryLabel"/>
+	</EventHandler>
+	<EventHandler name="increaseInventoryCategory" function="ShiftCategory" button="inventoryRightButton">
+		<Arg key="scrollable" value="inventoryDisplay"/>
+		<Arg key="changeDirection" value="1"/>
+		<Arg key="title" value="inventoryLabel"/>
+	</EventHandler>
+
+	<!-- chest -->
+	<EventHandler name="decreaseChestCategory" function="ShiftCategory" button="chestLeftButton">
+		<Arg key="scrollable" value="chestDisplay"/>
+		<Arg key="changeDirection" value="-1"/>
+		<Arg key="title" value="chestLabel"/>
+	</EventHandler>
+	<EventHandler name="IncreaseChestCategory" function="ShiftCategory" button="chestRightButton">
+		<Arg key="scrollable" value="chestDisplay"/>
+		<Arg key="changeDirection" value="1"/>
+		<Arg key="title" value="chestLabel"/>
+	</EventHandler>
+</Element>

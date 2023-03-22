@@ -1,0 +1,24 @@
+<GameConfig
+	gameTitle="Starship: Gold"
+	windowAspect="2.0"
+	isFullscreen="false"
+	devConsoleLines="30.5"
+	
+	debugLineThickness="0.2"
+	debugRingPartitions="32"
+	debugSlowMoMultiplier="0.1"
+	debugFastMoMultiplier="4.0"
+	
+	screenCameraDimensionX="1600.0"
+	screenCameraDimensionY="800.0"
+	screenCameraCenterX="0.0"
+	screenCameraCenterY="0.0"
+	
+	worldCameraDimensionX="200.0"
+	worldCameraDimensionY="100.0"
+	worldCameraCenterX="0.0"
+	worldCameraCenterY="0.0"
+	
+	joystickMenuDelay="0.2"
+	joystickMenuSensitivity="0.5"
+/>

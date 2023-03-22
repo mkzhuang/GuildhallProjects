@@ -1,0 +1,9 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.827451 0.8 0.74902
+d 1
+Ns 40
+map_Kd textures\clutter\goatskin\GoatSkin.dds
+map_Kn textures\clutter\goatskin\GoatSkin_n.dds

@@ -1,0 +1,9 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.619608 0.67451 0.952942
+d 1
+Ns 87
+map_Kd textures\creationclub\bgssse060\armor\dragonscale\m\DragonscaleArmorBody.dds
+map_Kn textures\creationclub\bgssse060\armor\dragonscale\m\DragonscaleArmorBody_N.dds

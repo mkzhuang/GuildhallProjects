@@ -1,0 +1,24 @@
+<GameConfig
+	gameTitle="AFK Adventurer"
+	windowAspect="2.0"
+	isFullscreen="false"
+	devConsoleLines="30.5"
+	
+	debugLineThickness="0.2"
+	debugRingPartitions="128"
+	debugSlowMoMultiplier="0.5"
+	debugFastMoMultiplier="5.0"
+	
+	UICameraDimensionX="1600.0"
+	UICameraDimensionY="800.0"
+	UICameraCenterX="0.0"
+	UICameraCenterY="0.0"
+	
+	worldCameraDimensionX="30.0"
+	worldCameraDimensionY="15.0"
+	worldCameraCenterX="0.0"
+	worldCameraCenterY="0.0"
+	
+	joystickMenuDelay="0.2"
+	joystickMenuSensitivity="0.5"
+/>

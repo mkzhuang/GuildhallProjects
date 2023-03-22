@@ -1,0 +1,33 @@
+<GameConfig
+	gameTitle="Doomenstein"
+	windowAspect="2.0"
+	isFullscreen="false"
+	devConsoleLines="45.5"
+	
+	debugLineThickness="0.2"
+	debugRingPartitions="128"
+	debugSlowMoMultiplier="0.5"
+	debugFastMoMultiplier="2.0"
+	
+	UICameraDimensionX="1600.0"
+	UICameraDimensionY="800.0"
+	UICameraCenterX="0.0"
+	UICameraCenterY="0.0"
+	
+	worldCameraMinX="-1.0"
+	worldCameraMinY="-1.0"
+	worldCameraMaxX="1.0"
+	worldCameraMaxY="1.0"
+	worldCameraCenterX="0.0"
+	worldCameraCenterY="0.0"
+	
+	joystickMenuDelay="0.2"
+	joystickMenuSensitivity="0.5"
+	
+	soundVolume="0.1"
+	defaultMapName="TestMap"
+	
+	menuMusic="Data\\Audio\\Music\\MainMenu_InTheDark.mp2"
+	gameMusic="Data\\Audio\\Music\\E1M1_AtDoomsGate.mp2"
+	clickSound="Data\\Audio\\Select.wav"
+/>

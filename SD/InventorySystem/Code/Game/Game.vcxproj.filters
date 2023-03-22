@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Entities">
+      <UniqueIdentifier>{aef7298c-5c3a-42e7-bc6e-cc09c497d3e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{bf85c191-68d4-4c01-a617-6c58c9145ea3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inventory">
+      <UniqueIdentifier>{0d532f6c-0f3e-45c9-9825-34a767bb0123}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_Windows.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCommon.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Prop.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemKeyTable.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="Filter.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="InventorySystem.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemFactory.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="Chest.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseClient.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldInventory.cpp">
+      <Filter>Inventory</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCommon.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineBuildPreferences.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Prop.hpp">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemKeyTable.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="Filter.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="InventorySystem.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemFactory.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="Chest.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="DatabaseClient.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldInventory.hpp">
+      <Filter>Inventory</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\..\Run\Data\GameConfig.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="..\..\Run\Data\Inventory\ChestButtonEvents.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="..\..\Run\Data\Inventory\ChestLayout.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="..\..\Run\Data\Inventory\InventoryButtonEvents.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="..\..\Run\Data\Inventory\InventoryLayout.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="..\..\Run\Data\Inventory\Items.xml">
+      <Filter>Data</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>

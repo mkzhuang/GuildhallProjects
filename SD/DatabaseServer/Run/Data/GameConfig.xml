@@ -1,0 +1,24 @@
+<GameConfig
+	gameTitle="Database Server"
+	windowAspect="2.0"
+	isFullscreen="false"
+	devConsoleLines="45.5"
+	
+	debugLineThickness="0.2"
+	debugRingPartitions="128"
+	debugSlowMoMultiplier="0.5"
+	debugFastMoMultiplier="2.0"
+	
+	UICameraDimensionX="1600.0"
+	UICameraDimensionY="800.0"
+	UICameraCenterX="0.0"
+	UICameraCenterY="0.0"
+	
+	worldCameraDimensionX="200.0"
+	worldCameraDimensionY="100.0"
+	worldCameraCenterX="0.0"
+	worldCameraCenterY="0.0"
+	
+	joystickMenuDelay="0.2"
+	joystickMenuSensitivity="0.5"
+/>

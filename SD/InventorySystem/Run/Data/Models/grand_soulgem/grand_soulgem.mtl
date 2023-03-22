@@ -1,0 +1,9 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.768629 0.317647 0.807845
+d 1
+Ns 56
+map_Kd textures\clutter\soulgem\SoulGemGrand.dds
+map_Kn textures\clutter\soulgem\SoulGemGrand_n.dds

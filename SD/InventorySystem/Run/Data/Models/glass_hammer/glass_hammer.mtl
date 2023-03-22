@@ -1,0 +1,35 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\blood\BloodHitDecals01.dds
+
+newmtl Material.000198
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 500
+map_Kd textures\blood\BloodHitDecals01Add.dds
+map_Kn textures\blood\BloodHitDecals01_n.dds
+
+newmtl Material.00032f
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.964707 1 0.72549
+d 1
+Ns 85
+map_Kd textures\weapons\glass\GlassHammer.dds
+map_Kn textures\weapons\glass\GlassHammer_n.dds
+
+newmtl Material.000605
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.247059 0.905884 0.384314
+d 1
+Ns 200
+map_Kd textures\weapons\glass\GlassHammer.dds
+map_Kn textures\weapons\glass\GlassHammer_n.dds
