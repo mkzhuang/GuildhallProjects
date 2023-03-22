@@ -1,9 +1,0 @@
-
-newmtl Material.000001
-Ka 1 1 1
-Kd 1 1 1
-Ks 1 0.929413 0.815687
-d 1
-Ns 45
-map_Kd textures\dlc01\armor\dawnguard\DawnguardHelmetFull_d.dds
-map_Kn textures\dlc01\armor\dawnguard\DawnguardHelmetFull_n.dds

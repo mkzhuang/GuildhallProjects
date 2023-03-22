@@ -1,9 +1,0 @@
-# exported with NifSkope
-
-mtllib iron_bow.mtl
-
-# Bow_Ironmesh:0
-
-g Bow_Ironmesh:0
-usemtl Material.000001
-

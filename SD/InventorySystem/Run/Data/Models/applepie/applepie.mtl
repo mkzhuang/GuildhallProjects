@@ -1,9 +1,0 @@
-
-newmtl Material.000001
-Ka 1 1 1
-Kd 1 1 1
-Ks 1 1 1
-d 1
-Ns 80
-map_Kd textures\clutter\ingredients\Pie.dds
-map_Kn textures\clutter\ingredients\Pie_n.dds
